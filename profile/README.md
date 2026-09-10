@@ -9,14 +9,15 @@ for ecological research, environmental monitoring and biodiversity analysis.
 
 The goal of mvabund is to provide tools for a model-based approach to the analysis of multivariate abundance data in ecology [Yi Wang et al. 2011](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2012.00190.x?__cf_chl_tk=DU8zv_PurgkSLK5o7CfbwvTZeVEvkNNewXW9X3ZxQFE-1789012359-1.0.1.1-AOZhOyOjGb0z7kOc6RTGhsmhGOw2CWizoFf8kmHISxc), in particular, testing hypothesis about the community-environment association. Abundance measures include counts, presence/absence data, ordinal or biomass data.
 
-[Package documentation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cran.r-project.org/web/packages/mvabund/mvabund.pdf)
+[Package documentation](https://cran.r-project.org/web/packages/mvabund/mvabund.pdf)
 
 ### [ecopower](https://github.com/eco-stats/ecopower)
 
 Estimates power and performs equivalence testing for multivariate abundance data to answer ecological study design and habitat restoration questions in R. The software uses a Gaussian copula model for simulation, expert informed multivariate effect sizes, and a critical value based approach to estimating power. The package also provides functions for parameterising multivariate effect sizes and simulating multivariate abundance data jointly.
 
 [![CRAN status](https://www.r-pkg.org/badges/version/ecopower)](https://cran.r-project.org/package=ecopower)
-[Package documentation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cran.r-project.org/web/packages/ecopower/ecopower.pdf)
+
+[Package documentation](https://cran.r-project.org/web/packages/ecopower/ecopower.pdf)
 
 ### [reginv](https://github.com/eco-stats/reginv)
 
